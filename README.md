@@ -21,7 +21,7 @@ KKK06 Mobility は、次世代モビリティを目指した小型移動体の�
 ## 外観イメージ（手描きスケッチ）
 
 <p align="center">
-  <img src="docs/images/kkk06_sketch1.jpg" alt="KKK06 Sketch 1" width="48%">
+  <img src="https://github.com/YamamotoAi2025/My-New-connect-mobility/blob/main/IMG_20250919_060726.jpg" alt="KKK06 Sketch 1" width="48%">
   <img src="docs/images/kkk06_sketch2.jpg" alt="KKK06 Sketch 2" width="48%">
 </p>
 Features
