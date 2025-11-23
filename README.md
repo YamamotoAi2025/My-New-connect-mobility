@@ -1,5 +1,27 @@
+# My-New-Connept-Mobility: Off-Grid Senior Car with Peltier AC & Air-Gapped AI
+
+## コンセプト（Concept）
+老人用シニアカーを「完全オフグリッドの移動AI基地」に改造。ペルチェ素子で夏45℃を25℃に、ソーラー＋LiFePO4で無給電走行。ネット接続ゼロ、エアギャップ100%でプライバシー死守。
+
+## 購入済みパーツ（Purchased Parts）
+| パーツ | スペック | 役割 |
+|--------|----------|------|
+| シニアカー本体 | 4輪電動カート | ベース車両 |
+| ペルチェ素子 | TEC1-12710 ×8 | 空調冷却（120W/枚） |
+| LiFePO4バッテリー | 12V 100Ah ×2 | 永久電源 |
+| ソーラーパネル | 100W ×2 | 太陽光充電 |
+| ナノPC | RK3588 | オフラインAIコア |
+
+## 次ステップ
+1. ペルチェ実装テスト（温度データアップ）
+2. 配線図追加（手書きOK）
+3. AI統合: Ollamaで車内分散処理
+
+[スケッチ画像リンク] ← ここに既存のJPG埋め込み
+
+
 # My-New-connect-mobility
-The structures of My New concert mobility
+The structures of My New concept mobility
 
 ---
 
