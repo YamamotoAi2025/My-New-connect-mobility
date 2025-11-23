@@ -17,10 +17,10 @@
 2. 配線図追加（手書きOK）
 3. AI統合: Ollamaで車内分散処理
 
-[スケッチ画像リンク] ← ここに既存のJPG埋め込み
+[スケッチ画像リンク] 
 
 
-# My-New-connect-mobility
+# My-New-connept-mobility
 The structures of My New concept mobility
 
 ---
