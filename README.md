@@ -1,5 +1,8 @@
 ⭐ 共感したらスターください → あなたの夏を冷たく、監視をゼロにします
 
+![上面図](IMG_20250919_060726.jpg)
+![側面図](IMG_20250919_060731.jpg)
+
 # My-New-Connept-Mobility: Off-Grid Senior Car with Peltier AC & Air-Gapped AI
 
 ## コンセプト（Concept）
